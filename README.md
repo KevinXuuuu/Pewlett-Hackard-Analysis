@@ -10,7 +10,7 @@ Also, we created another table which excluded the people who promoted from those
 
 ![image](https://user-images.githubusercontent.com/109333158/202956313-68b7f236-84b5-4cc6-9a75-ee1ae58994c6.png)
 
-In additiona, we generate a report counts the number of employees by their most recent job title who are about to retire.
+In addition, we generate a report counts the number of employees by their most recent job title who are about to retire.
 
 ![image](https://user-images.githubusercontent.com/109333158/202956507-d57b72fe-bbd2-4247-8c61-bce580ce240d.png)
 
