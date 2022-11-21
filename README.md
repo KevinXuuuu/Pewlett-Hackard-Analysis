@@ -1,6 +1,4 @@
-# Pewlett-Hackard-Analysis
-
-# Overview of the analysis:
+# Overview of the # Pewlett-Hackard-Analysis:
 The purpose of this analysis to provide insight for Bobby's manager who request for the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program.
 
 # Results: 
